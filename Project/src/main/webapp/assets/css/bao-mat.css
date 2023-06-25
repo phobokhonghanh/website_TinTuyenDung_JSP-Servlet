@@ -1,0 +1,19 @@
+.tit{
+    margin: 30px 10px;
+}
+.con{
+    padding: 1em 2.5em 2em;
+    margin-top: 1.75em;
+    text-align: justify;
+}
+#main ul {
+    margin-left: 20px;
+}
+#main li {
+    list-style: circle;
+    padding: 5px;
+    margin-left: 20px;
+}
+#main p{
+    color: black;
+}
